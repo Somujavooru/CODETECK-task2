@@ -27,3 +27,8 @@ Java: The core programming language used for development.
 Visual Studio Code (VS Code): The code editor for writing and testing Java code.
 JUnit: For unit testing to ensure code correctness.
 Maven/Gradle: For project build and dependency management.
+![Screenshot 2024-10-18 194530](https://github.com/user-attachments/assets/556ad2eb-8754-4e10-940d-beed9a2d08ed)
+
+
+
+
